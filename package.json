@@ -16,7 +16,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "browser-launcher": "0.3.5",
+    "browser-launcher": "1.0.1",
     "duplexer": "0.0.3",
     "ecstatic": "1.4.0",
     "electron-stream": "^2.1.0",
